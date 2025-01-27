@@ -1,5 +1,3 @@
-![image](https://github.com/user-attachments/assets/d3924516-2a14-49a2-a431-1d9ecb1359c0) 
-
 # IOS-MCN (Indian Open Source for Mobile Communication Networks)
 The IOS-MCN  will accelerate the development and deployment of Mobile Communication (5G/6G) products and services by the vendors.
 
